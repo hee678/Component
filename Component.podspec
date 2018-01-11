@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Component'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = '组件化Component.'
   s.description      = <<-DESC
 			   测试组件化demo，自测。
